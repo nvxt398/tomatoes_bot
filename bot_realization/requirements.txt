@@ -1,0 +1,7 @@
+python-telegram-bot==22.0
+torch==2.7.0
+torchvision==0.22.0
+Pillow==10.2.0
+opencv-python==4.11.0.86
+nest-asyncio==1.6.0
+
